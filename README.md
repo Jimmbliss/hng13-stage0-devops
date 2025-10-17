@@ -1,6 +1,6 @@
 # HNG13 Stage 0 DevOps Project
 
-**Name:** Jim Abiodun 
-**Slack Username:** @jimmbliss 
-**Project Description:** This is a simple NGINX web server deployment task for HNG13 DevOps Stage 0.  
+**Name:** Jim Abiodun <br>
+**Slack Username:** @jimmbliss <br>
+**Project Description:** This is a simple NGINX web server deployment task for HNG13 DevOps Stage 0. <br>
 **Server IP/Domain:** 
