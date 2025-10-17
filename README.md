@@ -3,5 +3,4 @@
 **Name:** Jim Abiodun  
 **Slack Username:** Jimmbliss  
 **Description:** Simple web server deployment for HNG13 Stage 0.  
-**Server IP/Domain:** http://13.53.69.25
-
+**Server IP/Domain:** 
